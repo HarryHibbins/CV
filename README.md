@@ -1,77 +1,71 @@
-## Your Name
+## Harry Hibbins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a quick learning, hardworking and upbeat individual, I recently graduated with a First-Class Honours
+degree in BSc. Games Technology. Throughout my life I have proved to myself that I can work effectively as
+part of a team and on my own, whether in a work environment or in sport. I am positive minded and enjoy
+pushing the boundaries of my comfort zone.
+I have always been surrounded by technology and at a young age acquired a keen interest in developing my
+own games. Since then, I have become an adept programmer and am knowledgeable in various areas of
+game development. I love the idea that I can be a piece of the puzzle that provides people with countless
+hours of entertainment, just like I have experienced.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Dissertation project**     | Designing and developing a puzzle game with brain training effects | Unity, C#. |
+| **Game Jam** | Dungeon crawler game. | Unity, C#              |
+
+My many other projects can be found with detailed descriptions, screenshots, and videos can be found on my portfolio: harryhibbins.com
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The University of The West of England** (09/2021 – 07/2022)  
+_Gameplay Programmer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- The module Commercial Games Development at
+university aims to replicate a games studio
+environment to prepare for the first role in the
+industry
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+Software Skills
+- Unity Engine
+- Unreal Engine
+- C++
+- C#
+- Git
 
--STAR
--What was the situation/task? (ST)
+Personal Traits
+- Problem solving
+- Communication
+- Reliable
+- Teamwork
+- Organised
+- Work well under pressure
+- Positive
+- Confident
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (07/11/22 - Present)
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### The University of the West of England (2018-2022)
+_Games Technology_
 
-#### Any other qualifications
+- First class degree 
+- First class mark for disseration project
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Trying new things in game jams
+- Playing games and working out how I
+would replicate certain systems or
+improve them
+- Attending live music with friends
+- Playing sports
+- Keeping fit at the gym
