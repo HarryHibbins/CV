@@ -19,37 +19,24 @@ this new path.
 
 ## Experiences
 
-_Makers November 2022 – February 2023_
-The Makers bootcamp has enabled me to become an adept programmer by practicing
-SOLID principles and utilising countless programming techniques such as TDD. Importantly
-Makers has enabled me to find a passion for developing software that can solve real world
-problems.
-Key experiences
-• Utilising pair programming with new people each day and regularly swapping the
-driver/navigator roles to keep code quality up.
-• Working using an Agile workflow in various group projects to effectively deliver an
-MVP and iterating on it on each sprint to reach a new release.
-• Developing code with requirements set by an acting client, communicating with them
-to gain a better understanding of what they want the software to do.
-• Practicing Test Driven Development to increase the robustness of code, mocking
-objects to create effective unit tests.
-• Using OOP and SOLID principles to improve the quality of code and to make it easier
-to refactor and revisit.
-• Experience using Ruby, JavaScript, React, PostgreSQL and MongoDB.
-• Experience creating my own backend solutions for querying databases, managing
-security and handling data. Incorporating this with frontend code to present a page
-to a user and allow them to interact with it.
-• Using GitHub Pull requests effectively to ensure code quality is maintained and
-merging code without issues.
-• Reviewing other group member’s code to ensure the project is sticking to
-conventions and best practice. Also gaining an understanding of how different
-systems work.
-• Using different debugging techniques to discover what is causing unexpected
-behaviour effectively and quickly coming up with a solution.
-• Having my code reviewed by a team of experienced programmers to improve my
-design process and technical ability.
-• I have learnt how to learn, how to efficiently pick up new languages and technologies
-and be able to contribute to a project that I am not always familiar with.
+_Makers November 2022 – February 2023_  
+The Makers bootcamp has enabled me to become an adept programmer by practicing SOLID principles and utilising countless programming techniques such as TDD. Importantly Makers has enabled me to find a passion for developing software that can solve real world problems.  
+Key experiences  
+
+
+• Utilising pair programming with new people each day and regularly swapping the driver/navigator roles to keep code quality up.  
+• Working using an Agile workflow in various group projects to effectively deliver an MVP and iterating on it on each sprint to reach a new release.  
+• Developing code with requirements set by an acting client, communicating with them to gain a better understanding of what they want the software to do.  
+• Practicing Test Driven Development to increase the robustness of code, mocking objects to create effective unit tests.  
+• Using OOP and SOLID principles to improve the quality of code and to make it easier to refactor and revisit.  
+• Experience using Ruby, JavaScript, React, PostgreSQL and MongoDB.  
+• Experience creating my own backend solutions for querying databases, managing security and handling data. Incorporating this with frontend code to present a page to a user and allow them to interact with it.  
+• Using GitHub Pull requests effectively to ensure code quality is maintained and merging code without issues.  
+• Reviewing other group member’s code to ensure the project is sticking to conventions and best practice. Also gaining an understanding of how different
+systems work.  
+• Using different debugging techniques to discover what is causing unexpected behaviour effectively and quickly coming up with a solution.  
+• Having my code reviewed by a team of experienced programmers to improve my design process and technical ability.  
+• I have learnt how to learn, how to efficiently pick up new languages and technologies and be able to contribute to a project that I am not always familiar with.  
 
 
 **The University of The West of England** (09/2018 – 06/2022)  
