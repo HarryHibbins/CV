@@ -21,7 +21,7 @@ this new path.
 
 _Makers November 2022 – February 2023_  
 The Makers bootcamp has enabled me to become an adept programmer by practicing SOLID principles and utilising countless programming techniques such as TDD. Importantly Makers has enabled me to find a passion for developing software that can solve real world problems.  
-# Key experiences  
+### Key experiences  
 
 
 • Utilising pair programming with new people each day and regularly swapping the driver/navigator roles to keep code quality up.  
@@ -41,7 +41,7 @@ systems work.
 
 **The University of The West of England** (09/2018 – 06/2022)  
 I graduated with a First-Class Honours degree in BSc. Games Technology. During my time at University, I quickly came familiar with the basics of coding and went on to become an advanced programmer.  
-# Key experiences  
+### Key experiences  
 
 • Proficient using C# in the Unity game engine.  
 • Experience using C++ in the Unreal game engine, and DirectX.  
