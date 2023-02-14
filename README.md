@@ -21,7 +21,7 @@ Git, GitHub, Firebase.
 | Name                         |Group/Solo| Description       | Tech/tools        |
 | -----------------------------|----------|-------------------|-------------------|
 | [**Bakery Manager**](https://github.com/HarryHibbins/bakery-manager)| Group    | An app created to help a group member manager her bakery by keeping track of what items can be sold, and by keeping track of orders. | JavaScript, MERN, Jest, Cypress |
-| [**Acebook**](https://github.com/HarryHibbins/Facebook-clone) | Group | A Facebook clone incorporating posts,comments, and likes.| JavaScript, MERN, Jest, Cypress
+| [**Acebook**](https://github.com/HarryHibbins/Facebook-clone) | Group | A Facebook clone incorporating posts, comments, and likes.| JavaScript, MERN, Jest, Cypress
 | [**Bank Tech Test**](https://github.com/HarryHibbins/Bank-tech-test) | Solo | A test to challenge my technical ability using core principles such as TDD, Mocking, OOP, SOLID. | JavaScript, Jest
 | [**Makers BnB**](https://github.com/HarryHibbins/makersbnb-ruby-seed) | Group | A program that allows a user request a property to stay at and for the owner to approve or deny these requests.| Ruby, Sinatra, RSpec
 | [**Movie App**](https://github.com/HarryHibbins/MovieApp) | Solo | An app that suggests random TV shows and Movies, filtered by genre to the user, and allows them to store them a watchlist. | Swift, Xcode
@@ -34,14 +34,14 @@ My time at Makers and University have taught me to learn efficiently. I can pick
 #### **Excellent communicator**
 Whether it has been group projects or providing good customer service, I have been able to quickly and effectively communicate with people to reach a solution that everyone is happy with.
 
-#### **Effective timekeeping skills and adaptabilty** 
-Whislt studying at university I always had multiple large projects on the go at one given time, often using different technologies. I was able to manage my time successfully to enable myself to still acheive high grades across all modules. 
+#### **Effective timekeeping skills and adaptability** 
+Whilst studying at university I always had multiple large projects on the go at one given time, often using different technologies. I was able to manage my time successfully to enable myself to still achieve high grades across all modules. 
 
 
 ## Experience
 
 #### _Makers, November 2022 – February 2023_  
-The Makers bootcamp has enabled me to become an adept programmer by practicing OOP and SOLID principles and utilising vaulable programming techniques such as TDD and CI/CD. Importantly Makers has enabled me to find a passion for developing software that can solve real world problems.  
+The Makers bootcamp has enabled me to become an adept programmer by practicing OOP and SOLID principles and utilising valuable programming techniques such as TDD and CI/CD. Importantly Makers has enabled me to find a passion for developing software that can solve real world problems.  
 
 • Working using an Agile workflow in various group projects to effectively deliver an MVP and iterating on it on each sprint to reach a new release.  
 • Developing code with requirements set by an acting client, communicating with them to gain a better understanding of what they want the software to do.  
@@ -54,7 +54,7 @@ The Makers bootcamp has enabled me to become an adept programmer by practicing O
 
 
 #### _The University of The West of England, September 2018 – June 2022_
-I graduated with a First-Class Honours degree in BSc. Games Technology. During my time at University, I quickly came familiar with the basics of coding and went on to become an advanced programmer. My Dissertation project (1st) looked into the postive health benefits video games can have.
+I graduated with a First-Class Honours degree in BSc. Games Technology. During my time at University, I quickly came familiar with the basics of coding and went on to become an advanced programmer. My Dissertation project (1st) looked into the positive health benefits video games can have.
 
 • Using GitHub to handle version control in both solo and group projects.  
 • Completed a project that involved the whole cohort of 40+ people, this meant we had to use Agile development effectively to stay on top of the project.  
