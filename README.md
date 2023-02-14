@@ -62,6 +62,12 @@ I graduated with a First-Class Honours degree in BSc. Games Technology. During m
 • Experience with utilising procedural generation to change the experience for a player each time they play.  
 • Developing an automated testing solution using Machine Learning.  
 
+#### _JD Sales Assistant July 2019 – November 2019_
+My time as a sales assistant taught me many lessons that are relevant to everyday day life.
+• Effective communication with customers to ensure I could provide them with a satisfactory service.
+• Keeping stock room organised to ensure there were no delays in providing customers a service.
+• Good listening to understand any issues a customer may have had and working on a quick solution for them.
+
 
 ## Hobbies and Interests
 • Keeping fit by playing sports, primarily football and tennis.   
