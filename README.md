@@ -51,4 +51,4 @@ Key experiences
 • I have been added to the Dean's List for consistently achieving higher than 70% in all modules in the academic year 2019/2020.  
 • Experience with utilising procedural generation to change the experience for a player each time they play.  
 • Developing an automated testing solution using Machine Learning.  
-• Managing time effectively to deliver high quality projects on time with tight deadlines.    
+• Managing time effectively to deliver high quality projects on time with tight deadlines and being able to jump between different projects using different  technologies on a daily basis. 
