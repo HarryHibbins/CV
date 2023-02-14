@@ -7,13 +7,13 @@ graduated the Makers Bootcamp on February 10th, and I thoroughly enjoyed tailori
 this new path.
 
 ## Tech stacks:
-JavaScript, React, Node.js, Express, MongoDB, Jest, Cypress
-Ruby, Sinatra, RSpec
-C#, Unity
-C++, Unreal, DirectX
-HTML, CSS 
-SQL, PostgreSQL, TablePlus
-Git, GitHub, Firebase
+JavaScript, React, Node.js, Express, MongoDB, Jest, Cypress.  
+Ruby, Sinatra, RSpec.  
+C#, Unity.  
+C++, Unreal, DirectX.  
+HTML, CSS.  
+SQL, PostgreSQL, TablePlus.  
+Git, GitHub, Firebase.  
 
 ## Projects
 
