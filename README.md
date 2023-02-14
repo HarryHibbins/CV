@@ -6,7 +6,7 @@ coding knowledge down more of a software engineering route, rather than game dev
 graduated the Makers Bootcamp on February 10th, and I thoroughly enjoyed tailoring my skills to
 this new path.
 
-## Tech stacks:
+### Tech stacks:
 JavaScript, React, Node.js, Express, MongoDB, Jest, Cypress.  
 Ruby, Sinatra, RSpec.  
 C#, Unity.  
