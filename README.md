@@ -11,6 +11,7 @@ JavaScript, React, Node.js, Express, MongoDB, Jest, Cypress.
 Ruby, Sinatra, RSpec.  
 C#, Unity.  
 C++, Unreal, DirectX.  
+Swift, Xcode.
 HTML, CSS.  
 SQL, PostgreSQL, TablePlus.  
 Git, GitHub, Firebase.  
@@ -20,10 +21,10 @@ Git, GitHub, Firebase.
 | Name                         |Group/Solo| Description       | Tech/tools        |
 | -----------------------------|----------|-------------------|-------------------|
 | [**Bakery Manager**](https://github.com/HarryHibbins/bakery-manager)| Group    | An app created to help a group member manager her bakery by keeping track of what items can be sold, and by keeping track of orders. | JavaScript, MERN, Jest, Cypress |
-| **Acebook** | Group | A Facebook clone incorporating posts,comments, and likes.| JavaScript, MERN, Jest, Cypress
-| **Bank Tech Test** | Solo | A test to challenge my technical ability using core principles such as TDD, Mocking, OOP, SOLID. | JavaScript, Jest
-| **Makers BnB** | Group | A program that allows a user request a property to stay at and for the owner to approve or deny these requests.| Ruby, Sinatra, RSpec
-| **Movie App** | Solo | An app that suggests random TV shows and Movies, filtered by genre to the user, and allows them to store them a watchlist. | Swift, Xcode
+| [**Acebook**](https://github.com/HarryHibbins/Facebook-clone) | Group | A Facebook clone incorporating posts,comments, and likes.| JavaScript, MERN, Jest, Cypress
+| [**Bank Tech Test**](https://github.com/HarryHibbins/Bank-tech-test) | Solo | A test to challenge my technical ability using core principles such as TDD, Mocking, OOP, SOLID. | JavaScript, Jest
+| [**Makers BnB**](https://github.com/HarryHibbins/makersbnb-ruby-seed) | Group | A program that allows a user request a property to stay at and for the owner to approve or deny these requests.| Ruby, Sinatra, RSpec
+| [**Movie App**](https://github.com/HarryHibbins/MovieApp) | Solo | An app that suggests random TV shows and Movies, filtered by genre to the user, and allows them to store them a watchlist. | Swift, Xcode
 
 ## Skills
 
