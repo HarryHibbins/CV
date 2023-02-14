@@ -27,13 +27,13 @@ Git, GitHub, Firebase.
 
 ## Skills
 
-#### Fast learner
+#### **Fast learner**
 My time at Makers and University have taught me to learn efficiently. I can pick up new languages and technologies and be able to contribute to a project that I am not always familiar with. 
 
-#### Excellent communicator
+#### **Excellent communicator**
 Whether it has been group projects or providing good customer service, I have been able to quickly and effectively communicate with people to reach a solution that everyone is happy with.
 
-#### Effective timekeeping skills and adaptabilty 
+#### **Effective timekeeping skills and adaptabilty** 
 Whislt studying at university I always had multiple large projects on the go at one given time, often using different technologies. I was able to manage my time successfully to enable myself to still acheive high grades across all modules. 
 
 
