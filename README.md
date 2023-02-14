@@ -1,20 +1,20 @@
 ## Harry Hibbins
 
-I am a quick learning, hardworking and upbeat individual, I recently graduated with a First-Class Honours
-degree in BSc. Games Technology. Throughout my life I have proved to myself that I can work effectively as
-part of a team and on my own, whether in a work environment or in sport. I am positive minded and enjoy
-pushing the boundaries of my comfort zone.
-I have always been surrounded by technology and at a young age acquired a keen interest in developing my
-own games. Since then, I have become an adept programmer and am knowledgeable in various areas of
-game development. I love the idea that I can be a piece of the puzzle that provides people with countless
-hours of entertainment, just like I have experienced.
+I am a quick learning, hardworking and upbeat individual, In the summer of 2022 I graduated with
+a First-Class Honours degree in BSc. Games Technology. Since then, I have decided to apply my
+coding knowledge down more of a software engineering route, rather than game development. I
+graduated the Makers Bootcamp on February 10th, and I thoroughly enjoyed tailoring my skills to
+this new path.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Dissertation project**     | Designing and developing a puzzle game with brain training effects | Unity, C#. |
-| **Game Jam** | Dungeon crawler game. | Unity, C#              |
+| Name                         |Group/Solo| Description       | Tech/tools        |
+| ---------------------------- |----------|-------------------|-------------------|
+| **Bakery Manager**           | Group    | An app created to help a group member manager her bakery by keeping track of what items can be sold, and by keeping track of orders | JavaScript, MERN, Jest, Cypress |
+
+
+
+| **Acebook** | Dungeon crawler game. | Unity, C#              |
 
 My many other projects can be found with detailed descriptions, screenshots, and videos can be found on my portfolio: harryhibbins.com
 
