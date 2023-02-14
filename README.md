@@ -39,7 +39,7 @@ systems work.
 • I have learnt how to learn, how to efficiently pick up new languages and technologies and be able to contribute to a project that I am not always familiar with.  
 
 
-#### **The University of The West of England** (09/2018 – 06/2022)  
+#### _The University of The West of England - September 2018 – June 2022_
 I graduated with a First-Class Honours degree in BSc. Games Technology. During my time at University, I quickly came familiar with the basics of coding and went on to become an advanced programmer.  
 ##### Key experiences  
 
