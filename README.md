@@ -63,10 +63,10 @@ I graduated with a First-Class Honours degree in BSc. Games Technology. During m
 
 
 ## Hobbies and Interests
-• Keeping fit by playing sports, primarily football and tennis. 
-• Playing games and working out how I systems have been made and how they could be improved.  
-• Attending live music with friends. 
-• Developing my own projects.  
+• Keeping fit by playing sports, primarily football and tennis.   
+• Playing games and working out how I systems have been made and how they could be improved.    
+• Attending live music with friends.   
+• Developing my own projects.    
 
 
 
