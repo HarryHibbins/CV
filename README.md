@@ -19,7 +19,7 @@ Git, GitHub, Firebase.
 
 | Name                         |Group/Solo| Description       | Tech/tools        |
 | -----------------------------|----------|-------------------|-------------------|
-| **Bakery Manager**           | Group    | An app created to help a group member manager her bakery by keeping track of what items can be sold, and by keeping track of orders. | JavaScript, MERN, Jest, Cypress |
+| [**Bakery Manager**](https://github.com/HarryHibbins/bakery-manager)| Group    | An app created to help a group member manager her bakery by keeping track of what items can be sold, and by keeping track of orders. | JavaScript, MERN, Jest, Cypress |
 | **Acebook** | Group | A Facebook clone incorporating posts,comments, and likes.| JavaScript, MERN, Jest, Cypress
 | **Bank Tech Test** | Solo | A test to challenge my technical ability using core principles such as TDD, Mocking, OOP, SOLID. | JavaScript, Jest
 | **Makers BnB** | Group | A program that allows a user request a property to stay at and for the owner to approve or deny these requests.| Ruby, Sinatra, RSpec
