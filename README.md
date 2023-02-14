@@ -40,20 +40,15 @@ systems work.
 
 
 **The University of The West of England** (09/2018 – 06/2022)  
-I graduated with a First-Class Honours degree in BSc. Games Technology. During my time at University, I
-quickly came familiar with the basics of coding and went on to become an advanced programmer.
-Key experiences
-• Proficient using C# in the Unity game engine
-• Experience using C++ in the Unreal game engine, and DirectX
-• Using GitHub to handle version control in both solo and group projects.
-• Completed a project that involved the whole cohort of 40+ people, this meant we had
-to use Agile development effectively to stay on top of the project.
-• Debugging complex problems involving difficult mathematical equations
-• Optimising systems by improving the redundancy of code using SOLID principles or
-by revisiting design
-• I have been added to the Dean's List for consistently achieving higher than 70% in all
-modules in the academic year 2019/2020
-• Created a procedural generation system
-• Developing an automated testing solution using Machine Learning.
-• Managing time effectively to deliver high quality projects on time with tight deadlines
-and being able to
+I graduated with a First-Class Honours degree in BSc. Games Technology. During my time at University, I quickly came familiar with the basics of coding and went on to become an advanced programmer.  
+Key experiences  
+• Proficient using C# in the Unity game engine.  
+• Experience using C++ in the Unreal game engine, and DirectX.  
+• Using GitHub to handle version control in both solo and group projects.  
+• Completed a project that involved the whole cohort of 40+ people, this meant we had to use Agile development effectively to stay on top of the project.  
+• Debugging complex problems involving difficult mathematical equations.  
+• Optimising systems by improving the redundancy of code using SOLID principles or by revisiting design.  
+• I have been added to the Dean's List for consistently achieving higher than 70% in all modules in the academic year 2019/2020.  
+• Experience with utilising procedural generation to change the experience for a player each time they play.  
+• Developing an automated testing solution using Machine Learning.  
+• Managing time effectively to deliver high quality projects on time with tight deadlines.    
