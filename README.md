@@ -11,7 +11,7 @@ JavaScript, React, Node.js, Express, MongoDB, Jest, Cypress.
 Ruby, Sinatra, RSpec.  
 C#, Unity.  
 C++, Unreal, DirectX.  
-Swift, Xcode.
+Swift, Xcode.   
 HTML, CSS.  
 SQL, PostgreSQL, TablePlus.  
 Git, GitHub, Firebase.  
