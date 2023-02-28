@@ -1,10 +1,8 @@
 ## Harry Hibbins
 
-I am a quick learning, hardworking and **Full Stack Developer**, In the summer of 2022 I graduated with
+I am a quick learning, hardworking and enthusiastic **Full Stack Developer**. In the summer of 2022 I graduated with
 a First-Class Honours degree in BSc. Games Technology. Since then, I have decided to apply my
-coding knowledge down more of a software engineering route, rather than game development. I
-graduated the Makers Bootcamp on February 10th, and I thoroughly enjoyed tailoring my skills to
-this new path.
+coding knowledge down more of a software engineering route, rather than game development. I recently graduated the Makers software development Bootcamp, which tailored my skills to this new path.
 
 ### Tech stacks:
 JavaScript, React, Node.js, Express, MongoDB, Jest, Cypress.  
@@ -63,10 +61,10 @@ I graduated with a First-Class Honours degree in BSc. Games Technology. During m
 • Developing an automated testing solution using Machine Learning.  
 
 #### _JD Sales Assistant July 2019 – November 2019_
-My time as a sales assistant taught me many lessons that are relevant to everyday day life.
-• Effective communication with customers to ensure I could provide them with a satisfactory service.
-• Keeping stock room organised to ensure there were no delays in providing customers a service.
-• Good listening to understand any issues a customer may have had and working on a quick solution for them.
+My time as a sales assistant taught me many lessons that are relevant to everyday day life.  
+• Effective communication with customers to ensure I could provide them with a satisfactory service.  
+• Keeping stock room organised to ensure there were no delays in providing customers a service.  
+• Good listening to understand any issues a customer may have had and working on a quick solution for them.  
 
 
 ## Hobbies and Interests
