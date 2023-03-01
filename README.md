@@ -84,7 +84,7 @@ Most notable takeaways:
 
 ## Hobbies and Interests
 • Keeping fit by playing sports, My favourite is football for fun or tennis to be more competitive.   
-• Playing games and working out how I systems have been made and how they could be improved. Most recently I was amazed by God of War Ragnarok's combat system 
+• Playing games and working out how I systems have been made and how they could be improved. Most recently I was amazed by God of War Ragnarok's combat system.   
 • Attending live music with friends. The best I've ever seen was Eminem!
    
 
