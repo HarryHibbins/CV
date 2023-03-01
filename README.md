@@ -1,8 +1,10 @@
 ## Harry Hibbins
 
-I am a quick learning, hardworking and enthusiastic **Full Stack Developer**. In the summer of 2022 I graduated with
-a First-Class Honours degree in BSc. Games Technology. Since then, I have decided to apply my
-coding knowledge down more of a software engineering route, rather than game development. I recently graduated the Makers software development Bootcamp, which tailored my skills to this new path.
+I am a fast learning, hardworking and enthusiastic  **Full Stack Developer**. In the summer of 2022, I graduated
+with a **First-Class Honours degree** in BSc. Games Technology. Since then, I have discovered a true passion for
+software engineering, rather than game development. Specifically in the tech for good field. I recently graduated
+the Makers software development bootcamp and I thoroughly enjoyed tailoring my skills to this new path. I’m
+now looking for a role in which I can make a difference with my code.  
 
 ### Tech stacks:
 JavaScript, React, Node.js, Express, MongoDB, Jest, Cypress.  
@@ -22,56 +24,69 @@ Git, GitHub, Firebase.
 | [**Acebook**](https://github.com/HarryHibbins/Facebook-clone) | Group | A Facebook clone incorporating posts, comments, and likes.| JavaScript, MERN, Jest, Cypress
 | [**Bank Tech Test**](https://github.com/HarryHibbins/Bank-tech-test) | Solo | A test to challenge my technical ability using core principles such as TDD, Mocking, OOP, SOLID. | JavaScript, Jest
 | [**Makers BnB**](https://github.com/HarryHibbins/makersbnb-ruby-seed) | Group | A program that allows a user request a property to stay at and for the owner to approve or deny these requests.| Ruby, Sinatra, RSpec
-| [**Movie App**](https://github.com/HarryHibbins/MovieApp) | Solo | An app that suggests random TV shows and Movies, filtered by genre to the user, and allows them to store them a watchlist. | Swift, Xcode
+| [**Movie App**](https://github.com/HarryHibbins/MovieApp) | Solo | An app that suggests random TV shows and Movies, filtered by genre to the user, and allows them to store a watchlist. | Swift, Xcode
 
 ## Skills
 
 #### **Fast learner**
-My time at Makers and University have taught me to learn efficiently. I can pick up new languages and technologies and be able to contribute to a project that I am not always familiar with. 
+My time at Makers and University have taught me to learn efficiently. I can pick up new languages and technologies and be able to contribute to a project that I am not always familiar with. I learn by doing, I find that after a short period of research I like to get stuck in with a technology to figure out how it works. Once I am familiar with the basics I can further this with extended research through documentation or videos, which I find particularly useful.   
 
 #### **Excellent communicator**
-Whether it has been group projects or providing good customer service, I have been able to quickly and effectively communicate with people to reach a solution that everyone is happy with.
+Whether it has been group projects, providing customer service, or in sport. I have always been able to quickly and effectively communicate with people to reach a solution that the team is happy with. This was evident in my final project at Makers where I assumed a leadership role. Some of my responsibilities  were handling the assigning of tasks, leading stand-ups and retros, or planning systems for the project. 
 
 #### **Effective timekeeping skills and adaptability** 
-Whilst studying at university I always had multiple large projects on the go at one given time, often using different technologies. I was able to manage my time successfully to enable myself to still achieve high grades across all modules. 
+Whilst studying at university I consistently had multiple large projects on the go at one given time, often using different technologies. I was able to manage my time successfully. Some techniques I used to achieve  this were using a pomodoro timer to stay focused, and a kanban board to organise each project. This in tandem with my determination to achieve the best results possible led me to achieve high grades across all modules.   
 
 
 ## Experience
 
 #### _Makers, November 2022 – February 2023_  
-The Makers bootcamp has enabled me to become an adept programmer by practicing OOP and SOLID principles and utilising valuable programming techniques such as TDD and CI/CD. Importantly Makers has enabled me to find a passion for developing software that can solve real world problems.  
-
-• Working using an Agile workflow in various group projects to effectively deliver an MVP and iterating on it on each sprint to reach a new release.  
-• Developing code with requirements set by an acting client, communicating with them to gain a better understanding of what they want the software to do.  
-• Practicing Test Driven Development to increase the robustness of code, mocking objects to create effective unit tests.   
-• Utilising pair programming with new people each day and regularly swapping the driver/navigator roles to keep code quality up.  
-• Experience creating my own backend solutions for querying databases, managing security and handling data. Incorporating this with frontend code to present a page to a user and allow them to interact with it.  
-• Model View Controller design pattern.
-• Using GitHub Pull requests effectively to ensure code quality is maintained and merging code without issues. Also reviewing other group member’s code to gain an understanding of how other systems in the project work.  
-• Having my code reviewed by a team of experienced programmers to improve my design process and technical ability.   
+The Makers bootcamp has given me invaluable experience and practice in many aspects of software development.
+Tech used:
+• Ruby, JavaScript, React, Jest, RSpec, Sinatra, Cypress, PostgreSQL and MongoDB.   
+• Pair programming with new people each day, developing adaptability and flexibility.   
+• Agile workflow to effectively deliver an MVP and iterating on it each sprint to reach a new release.   
+• Actively seeking out feedback from an acting client, ensuring that the final version meets their requirements.   
+• TDD in conjunction with mocking to create effective unit and integration tests. Leading to robust and easy to maintain code.    
+• OOP and SOLID principles to allow any team member to adjust or extend the code.   
+• Emotional intelligence training in a tech environment, improving my feedback empathy and teamwork skills.   
+• Backend solutions for querying databases, managing security and handling data.   
+Incorporating this with frontend code to present an intuitive page to a user and allow them to interact with it seamlessly.   
+• GitHub pull requests and version control to meet project standards and manage handle large group projects.   
 
 
 #### _The University of The West of England, September 2018 – June 2022_
-I graduated with a First-Class Honours degree in BSc. Games Technology. During my time at University, I quickly came familiar with the basics of coding and went on to become an advanced programmer. My Dissertation project (1st) looked into the positive health benefits video games can have.
-
-• Using GitHub to handle version control in both solo and group projects.  
-• Completed a project that involved the whole cohort of 40+ people, this meant we had to use Agile development effectively to stay on top of the project.  
-• Optimising systems by improving the redundancy of code using SOLID principles or by revisiting design.  
-• Experience with utilising procedural generation to change the experience for a player each time they play.  
-• Developing an automated testing solution using Machine Learning.  
+Being a fast learner, I quickly became familiar with the basics of coding. My experience throughout the 4 years of intensive coding
+and project management developed my skills to an advanced level.   
+Tech used:   
+• C#, C++, Unity, Unreal, DirectX.      
+• Machine Learning to create an Automated testing system for a platformer game.   
+• Developed Agile skills through a group project involving the whole cohort of 40+ people.
+• Tech for good dissertation project that explored the possible health benefits of playing puzzle games for rehabilitation.     
+• OOP principles to create games with hundreds of objects working simultaneously.   
+• Networking to create multiplayer games that update objects for both players in real time.   
+• GitHub to handle version control in both solo and group projects.   
+• Optimisation system that used JSON to store world data and only load objects that the player could see.   
+• Procedural generation to dynamically generate a unique map for each play session.    
+• Debugging complex problems involving difficult mathematical equations.   
+• Managing time and being flexible to deliver high quality projects using different technologies with tight deadlines daily.   
+ 
+I am proud to be on the Dean’s List for consistently achieving higher than 70% in all modules in the academic year 2019/2020.   
 
 #### _JD Sales Assistant July 2019 – November 2019_
-My time as a sales assistant taught me many lessons that are relevant to everyday day life.  
-• Effective communication with customers to ensure I could provide them with a satisfactory service.  
-• Keeping stock room organised to ensure there were no delays in providing customers a service.  
-• Good listening to understand any issues a customer may have had and working on a quick solution for them.  
+My time as a sales assistant taught me many lessons that are relevant to everyday life.    
+Most notable takeaways:   
+• Effective communication with customers to ensure I could provide them with a satisfactory service.   
+• Meeting targets set by managing staff, creating a good relationship with my superiors and working to their expectations.   
+• Teamwork with my colleagues to deal with large quantities of customers at once.   
+• Organisation to keep the stockroom operational ensuring there were no delays in providing customers a service.   
 
 
 ## Hobbies and Interests
-• Keeping fit by playing sports, primarily football and tennis.   
-• Playing games and working out how I systems have been made and how they could be improved.    
-• Attending live music with friends.   
-• Developing my own projects.    
+• Keeping fit by playing sports, My favourite is football for fun or tennis to be more competitive.   
+• Playing games and working out how I systems have been made and how they could be improved. Most recently I was amazed by God of War Ragnarok's combat system 
+• Attending live music with friends. The best I've ever seen was Eminem!
+   
 
 
 
