@@ -42,7 +42,7 @@ Whilst studying at university I consistently had multiple large projects on the 
 
 #### _Makers, November 2022 – February 2023_  
 The Makers bootcamp has given me invaluable experience and practice in many aspects of software development.
-Tech used:
+This included:
 • Ruby, JavaScript, React, Jest, RSpec, Sinatra, Cypress, PostgreSQL and MongoDB.   
 • Pair programming with new people each day, developing adaptability and flexibility.   
 • Agile workflow to effectively deliver an MVP and iterating on it each sprint to reach a new release.   
@@ -58,7 +58,7 @@ Incorporating this with frontend code to present an intuitive page to a user and
 #### _The University of The West of England, September 2018 – June 2022_
 Being a fast learner, I quickly became familiar with the basics of coding. My experience throughout the 4 years of intensive coding
 and project management developed my skills to an advanced level.   
-Tech used:   
+This included:   
 • C#, C++, Unity, Unreal, DirectX.      
 • Machine Learning to create an Automated testing system for a platformer game.   
 • Developed Agile skills through a group project involving the whole cohort of 40+ people.
